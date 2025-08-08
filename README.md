@@ -1,11 +1,11 @@
-AGROBOT: Applying Design Thinking to Innovate in Agriculture
+# AGROBOT: Applying Design Thinking to Innovate in Agriculture
 
-Project Vision and Introduction
+# Project Vision and Introduction
 
 AGROBOT is a technological innovation project born from applying the Design Thinking methodology to solve real and pressing challenges in the agricultural sector. The goal is to design and develop an accessible, scalable robotics solution that improves operational efficiency, sustainability, and working conditions in farming, with an initial focus on the floriculture industry in Eastern Antioquia, Colombia.
 This project goes beyond technology; it is a deep exercise in empathy, strategy, and user-centered validation. Its development is currently being carried out within the framework of the Research Group on Energy, Processes, and Agro-industry (GEPAR) at the University of Antioquia (UdeA), of which I am an active member.
 
-Connection to Data Science:
+# Connection to Data Science:
 
 The Design Thinking methodology was the cornerstone for defining the business questions and user needs. This process is analogous and fundamental to any data science project, as it allowed us to:
 
@@ -13,7 +13,7 @@ The Design Thinking methodology was the cornerstone for defining the business qu
 - Define the necessary data to build a valuable solution.
 - Establish the foundation for future predictive analytics and crop optimization models.
 
-The Design Thinking Journey: Methodology in Action
+# The Design Thinking Journey: Methodology in Action
 
 The project was structured around the five iterative stages of Design Thinking, using strategic tools at each step to ensure the final solution was aligned with real-world needs.
 
@@ -48,19 +48,19 @@ The project was structured around the five iterative stages of Design Thinking, 
   Thanks to its solid methodological foundation, the AGROBOT project has been formally adopted by the GEPAR Research Group at the University of Antioquia.
   We are currently in the development phase of the functional prototype and validating the control and computer vision algorithms.
   
-Next steps include:
+# Next steps include:
 
 - Sensor integration and development of the data visualization platform.
 - Field tests with partner farms to gather direct user feedback.
 - Development of an initial data model for crop performance analysis.
 
-Methodologies & Technologies
+# Methodologies & Technologies
 
 - Methodologies: Design Thinking, Lean Startup, Competitive Analysis, QFD, STP.
 - Strategy Tools: Business Model Canvas, Value Proposition Canvas, Opportunity Canvas, 5 Whys, SCAMPER.
 - Projected Technologies: Python (for control & analysis), Raspberry Pi/Arduino, Humidity/pH Sensors, Computer Vision (OpenCV), IoT Platforms.
   
-The Team
+# The Team
 
 This project was developed by Jenifer Lopera, Juan Pablo Gonzalez, and Juan Carlos Murillo, a multidisciplinary team with strengths in leadership, innovation, and analysis.
 
